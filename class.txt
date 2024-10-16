@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Crimson
 Orange
 Blue
@@ -12,6 +11,3 @@ Fuchsia
 Purple
 Brown
 Red
-=======
-
->>>>>>> c138ca8d75dae34b9376912591ca08b8a9f2fdeb
